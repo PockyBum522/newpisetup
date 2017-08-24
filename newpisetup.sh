@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Before using this, make sure git is installed with sudo apt-get install git
-# curl https://github.com/PockyBum522/newpisetup | sh
+# curl https://raw.githubusercontent.com/PockyBum522/newpisetup/master/newpisetup.sh | sh
 
 apt-get --assume-yes install vim
 apt-get --assume-yes install tmux
